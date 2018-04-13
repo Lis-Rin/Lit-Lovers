@@ -7,9 +7,13 @@ Write description here:
 ```markdown
 Syntax highlighted code block
 
-**Contact**
-**Meeting Times**
-**Where**
+**Information**
+Led by Johnna Christensen. 
+Where: CHS Library
+When: The first and third Tuesday of every month at 2:10-2:40
+Who: Anyone who is interested in reading and talking about what they read
+
+
 
 - Bulleted
 - List
